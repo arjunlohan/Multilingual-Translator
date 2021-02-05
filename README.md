@@ -1,6 +1,6 @@
 **[Multilingual-Translator](https://hyperskill.org/projects/99?track=2)**
 
-**My implementation of JetBrains Academy's project Multilingual Online Translator with Python, the project uses [BeautifulSoup4 module](https://pypi.org/project/beautifulsoup4/) and [requests](https://pypi.org/project/requests/) module to web-scrape translations from [Reversocontext.net](https://context.reverso.net/translation/)**
+**Multilingual Online Translator - Python, my project uses [BeautifulSoup4 module](https://pypi.org/project/beautifulsoup4/) and [requests](https://pypi.org/project/requests/) module to BeautifulSoup web-scrapper translations from [Reversocontext.net](https://context.reverso.net/translation/)**
 
 **A console-based command line translator.**
 
