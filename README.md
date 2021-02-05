@@ -31,5 +31,5 @@ Supported languages include, in alphabetical order:
 
 **An example to demonstrate how to run the application:**
 
-[![image.png](https://i.ibb.co/q5jts6x/Screen-Shot-2021-02-04-at-8-23-33-PM.png)] https://ibb.co/q5jts6x
+[![image.png](https://i.ibb.co/SryhnSJ/Screen-Shot-2021-02-04-at-8-23-33-PM.png)] https://ibb.co/q5jts6x
 
